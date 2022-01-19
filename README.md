@@ -5,8 +5,7 @@ My latest C school project | TII | Programação Imperativa
 
 ## :rocket: Programação Imperativa
 
-Este projeto foi realizado em C
-- [C](https://docs.microsoft.com/en-us/dotnet/c/)
+Este projeto foi realizado em [C](https://docs.microsoft.com/en-us/dotnet/c/)
 
 ## 💻 Projeto
 
