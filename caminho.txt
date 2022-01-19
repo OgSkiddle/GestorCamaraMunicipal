@@ -1,0 +1,5 @@
+Coordenadas que deve seguir: 
+
+1 - x: 34,10; y: 54,20
+2 - x: 34,20; y: 23,80
+Retornar as coordenadas iniciais, x: 230,00; y: 120,00
