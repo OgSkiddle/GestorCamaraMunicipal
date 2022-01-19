@@ -8,7 +8,7 @@ My latest C school project | TII | Programação Imperativa
 Este projeto foi realizado em [C](https://docs.microsoft.com/en-us/dotnet/c/)
 
 ## 💻 Projeto
-```
+
 A Câmara Municipal de Vieira do Minho (CMVM) pretende implementar um sistema IoT para a gestão da recolha de resíduos de reciclagem no seu município. Assim, a CMVM pretende fazer a geo-localização de todos os seus ecopontos e ser capaz de monitorizar a quantidade de resíduos em cada um em tempo real, de modo a otimizar as rotinas dos veículos de recolha de resíduos.
 
 Considere a seguinte descrição do problema:
@@ -22,7 +22,7 @@ Considere a seguinte descrição do problema:
     * Permitir ao utilizador efetuar diferentes pesquisas sobre o estado da rede de recolha de resíduos (e.g. listar todos os ecopontos cheios, calcular o nível de resíduos médio        dos ecopontos de um dado tipo, entre outros);
     * Carregar/guardar os dados em/de ficheiro;
     * Calcular a distância percorrida de um veículo que vai recolher os resíduos de uma lista de ecopontos.
-```
+
 
 ## 📃 Licensa
 
