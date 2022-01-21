@@ -2,19 +2,20 @@
 #include <stdlib.h>
 #include <locale.h>
 
-#include "functions.c"  // Importa as funÃ§Ãµes para o cÃ³digo 
+#include "functions.c"  // Importa as funções para o código 
 
-// FunÃ§Ã£o principal (primeira a ser chamada quando o programa inicia)
+
+// Função principal (primeira a ser chamada quando o programa inicia)
 int main() {
 	int respostaAumentarRegistos;
-	// Coloca o idioma do programa em portuguÃªs
+	// Coloca o idioma do programa em português
 	setlocale(LC_ALL, "Portuguese");
 
-	// Chama a funÃ§Ã£o para aumentar o maximo de registos que pode introduzir
+	// Chama a função para aumentar o maximo de registos que pode introduzir
 	respostaAumentarRegistos = aumentarMaxRegistos();
-	// Verifica se nÃ£o ocorreu nenhum erro a aumentar o maximo de registos
+	// Verifica se não ocorreu nenhum erro a aumentar o maximo de registos
 	if (respostaAumentarRegistos == 1) {
-		// Chama a funÃ§Ã£o para mostrar o menu principal
+		// Chama a função para mostrar o menu principal
 		menuPrincipal();
 	}
 	else {
@@ -22,3 +23,4 @@ int main() {
 	}
 	return 0;
 }
+
