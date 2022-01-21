@@ -1,5 +1,5 @@
-# project-c
-My latest C school project | TII | Programação Imperativa
+# Gestor Câmara Municipal
+Projeto Final em C | TII | Programação Imperativa
 
 # Gestão da recolha de resíduos de reciclagem no Município
 
@@ -16,7 +16,7 @@ Descrição do problema:
   * Em cada localização podem existir um ou mais ecopontos, do mesmo tipo ou de tipos diferentes;
   * A localização de cada ecoponto é feita pela utilização de coordenadas num plano bidimensional de tamanho 1000*1000 (e.g. X=54.6 e Y=149.3);
   * Sempre que um veículo recolhe resíduos de um dado ecoponto este fica vazio.
-  O programa a desenvolver deve ter, no mínimo, as seguintes funcionalidades:
+  O programa deve ter, no mínimo, as seguintes funcionalidades:
     * Permitir adicionar/editar/remover ecopontos;
     * Permitir acrescentar uma determinada quantidade de resíduos num ecoponto;
     * Permitir ao utilizador efetuar diferentes pesquisas sobre o estado da rede de recolha de resíduos (e.g. listar todos os ecopontos cheios, calcular o nível de resíduos médio        dos ecopontos de um dado tipo, entre outros);
