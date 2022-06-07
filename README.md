@@ -24,7 +24,7 @@ Descrição do problema:
     * Calcular a distância percorrida de um veículo que vai recolher os resíduos de uma lista de ecopontos.
 
 
-## 📃 Licensa
+## 📃 Licença
 
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/TerritorialBreak5/project-c/blob/main/LICENSE)
 
